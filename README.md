@@ -1,8 +1,12 @@
 # Weather
 
-**TODO: Add description**
+Elixir module to parse weather data (XML feeds)
+
 
 ## Installation
+
+Note: Currently module is not available in Hex. Below is default mix README content.
+
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
 
